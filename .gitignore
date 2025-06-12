@@ -1,4 +1,7 @@
-/.idea
-build
-/.gradle
-bin
+/*.jar
+*.iml
+reserve.md
+HELP.md
+.gradle
+build/
+.vscode/
